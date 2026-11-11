@@ -50,15 +50,14 @@ Configured:
 - Default Gateway
 - Preferred DNS Server
 
-<img src="windows_2022_installed.png" width="800">static_ip.png
+<img src="static_ip.png" width="800">
 
 ### Step 3: Install Active Directory Domain Services
 
 Installed AD DS role through Server Manager.
 
-<img src="windows_2022_installed.png" width="800">windows_2022_installed.png
 
-<img src="windows_2022_installed.png" width="800">install_ad_ds.png
+<img src="install_ad_ds.png" width="800">
 
 ### Step 4: Promote Server to Domain Controller
 
@@ -66,23 +65,23 @@ Created:
 
 krantanlab.local
 
-<img src="windows_2022_installed.png" width="800">screenshots/domain-controller.png
+<img src="promote_domain.png" width="800">
 
 ### Step 4: Create groups and Users for domain
 
-<img src="user_creation_sucessful.png" width="800">user_creation_sucessful.png
+<img src="user_creation_sucessful.png" width="800">
 
 ### Step 5: Join Windows 11 to Domain
 
 Successfully joined Windows 11 workstation to the domain.
 
-<img src="client_joins_server_domain.png" width="800">client_joins_server_domain.png
+<img src="client_joins_server_domain.png" width="800">
 
 ### Step 6: Verify Connectivity
 
 Used ping testing and DNS lookups.
 
-<img src="connection_succesful.png" width="800">connection_succesful.png
+<img src="connection succesful.png" width="800">
 
 ### Step 7: Sign into created user
 
