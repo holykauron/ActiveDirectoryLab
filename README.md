@@ -40,7 +40,7 @@ The goal was to gain hands-on experience with:
 
 Screenshot:
 
-screenshots/server-installation.png
+<img src="windows_2022_installed.png" width="800">
 
 ### Step 2: Configure Static IP
 
@@ -50,15 +50,15 @@ Configured:
 - Default Gateway
 - Preferred DNS Server
 
-static_ip.png
+<img src="windows_2022_installed.png" width="800">static_ip.png
 
 ### Step 3: Install Active Directory Domain Services
 
 Installed AD DS role through Server Manager.
 
-windows_2022_installed.png
+<img src="windows_2022_installed.png" width="800">windows_2022_installed.png
 
-install_ad_ds.png
+<img src="windows_2022_installed.png" width="800">install_ad_ds.png
 
 ### Step 4: Promote Server to Domain Controller
 
@@ -66,31 +66,31 @@ Created:
 
 krantanlab.local
 
-screenshots/domain-controller.png
+<img src="windows_2022_installed.png" width="800">screenshots/domain-controller.png
 
 ### Step 4: Create groups and Users for domain
 
-user_creation_sucessful.png
+<img src="user_creation_sucessful.png" width="800">user_creation_sucessful.png
 
 ### Step 5: Join Windows 11 to Domain
 
 Successfully joined Windows 11 workstation to the domain.
 
-client_joins_server_domain.png
+<img src="client_joins_server_domain.png" width="800">client_joins_server_domain.png
 
 ### Step 6: Verify Connectivity
 
 Used ping testing and DNS lookups.
 
-connection_succesful.png
+<img src="connection_succesful.png" width="800">connection_succesful.png
 
 ### Step 7: Sign into created user
 
 Successfully signed into client as John Doe. 
 
-switch_user.png
+<img src="switch_user.png" width="800">
 
-user_login_succesful.png
+<img src="user_login_succesful.png" width="800">
 
 ## Skills Demonstrated
 
