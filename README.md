@@ -69,7 +69,7 @@ krantanlab.local
 
 ### Step 4: Create groups and Users for domain
 
-<img src="user_creation_sucessful.png" width="800">
+<img src="user_creation_successful.png" width="800">
 
 ### Step 5: Join Windows 11 to Domain
 
@@ -89,7 +89,7 @@ Successfully signed into client as John Doe.
 
 <img src="switch_user.png" width="800">
 
-<img src="user_login_succesful.png" width="800">
+<img src="user_login_successful.png" width="800">
 
 ## Skills Demonstrated
 
